@@ -1,0 +1,1 @@
+insert into event (eventName, eventDate, eventAddress) values('Beach Volley', '2020-08-12 17:00:00', 'Tuomion Ranta');
